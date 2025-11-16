@@ -54,7 +54,7 @@ I'm a passionate developer currently pursuing Computer Science & Engineering. I 
 
 - 📧 Email: myselfaditya77@gmail.com
 - 💼 LinkedIn: 
-- 📷 Instagram: [Your Dev Instagram handle]
+- 📷 Instagram: 
 - 🌐 Portfolio: Working on it
 
 ---
